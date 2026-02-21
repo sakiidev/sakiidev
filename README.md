@@ -19,12 +19,12 @@
 ## 📊 STATUS DO GITHUB
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakiidev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakiidev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakiidev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakiidev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakiidev&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sakiidev&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" />
 </div>
 
 ---
@@ -32,9 +32,15 @@
 ## 🎵 AGORA TOCANDO NO SPOTIFY
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=sakiidev&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=sakiidev&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  
+  [![Spotify](https://novatorem-git-main-sakiidev.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/sakiidev)
+  
+  <br>
+  
+  <a href="https://open.spotify.com/user/sakiidev">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
+  
 </div>
 
 ---
@@ -43,11 +49,15 @@
 
 <div align="center">
   
-  <!-- YOUTUBE:START -->
-  <!-- YOUTUBE:END -->
+  <!-- YOUTUBE CARDS -->
+  <a href="https://youtube.com/@kiisute">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
   
-  <a href="https://youtube.com/@kiisute?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <br><br>
+  
+  <a href="https://www.youtube.com/channel/UC_kiisute">
+    <img src="https://youtube-stats-card.vercel.app/api?channelid=UC_kiisute&layout=extruded&theme=tokyonight" />
   </a>
   
 </div>
@@ -61,12 +71,8 @@
   ### 🆔 **sakiidev** | `1458632297380057316`
   
   <a href="https://discord.com/users/1458632297380057316">
-    <img src="https://lanyard.cnrad.dev/api/1458632297380057316?theme=dark&bg=1a1b27&borderRadius=30px&animated=true&hideDiscrim=true&idleMessage=Programando%20ou%20jogando..." alt="Discord Status" />
+    <img src="https://lanyard.cnrad.dev/api/1458632297380057316?theme=dark&bg=0d1117&borderRadius=30px&animated=true&hideDiscrim=true&idleMessage=Programando%20ou%20jogando..." alt="Discord Status" />
   </a>
-  
-  <br><br>
-  
-  [![Discord Presence](https://discord-readme-badge.vercel.app/api?id=1458632297380057316)](https://discord.com/users/1458632297380057316)
   
 </div>
 
@@ -82,8 +88,11 @@
     <img src="https://img.shields.io/badge/Siga_no_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   
-  <!-- TIKTOK:START -->
-  <!-- TIKTOK:END -->
+  <br><br>
+  
+  <a href="https://tiktok.com/@sakiidev">
+    <img src="https://tiktok-readme.vercel.app/api/tiktok?username=sakiidev&theme=tokyonight" />
+  </a>
   
 </div>
 
@@ -113,13 +122,27 @@
 
 ---
 
-## 📊 ESTATÍSTICAS RÁPIDAS
+## 📦 MEUS PROJETOS PRINCIPAIS
 
 <div align="center">
   
-  | 🏆 Conquistas | 📈 Métricas |
-  |:---:|:---:|
-  | ![Trophies](https://github-profile-trophy.vercel.app/?username=sakiidev&theme=tokyonight&no-frame=true&row=2&column=3) | ![Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=sakiidev&theme=tokyonight&hide_border=true) |
+  <a href="https://github.com/sakiidev/discord-bot-structured">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=discord-bot-structured&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  
+  <a href="https://github.com/sakiidev/cpp-library-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=cpp-library-system&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  
+  <br>
+  
+  <a href="https://github.com/sakiidev/kotlin-imc-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=kotlin-imc-calculator&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  
+  <a href="https://github.com/sakiidev/file-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=file-manager&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
   
 </div>
 
@@ -129,7 +152,27 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/sakiidev/sakiidev/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/sakiidev/sakiidev/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+## 🏆 TROFÉUS DO GITHUB
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=sakiidev&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+  
+</div>
+
+---
+
+## 📊 WAKATIME (Tempo de Código)
+
+<div align="center">
+  
+  [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=sakiidev&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact)](https://wakatime.com/@sakiidev)
   
 </div>
 
@@ -143,20 +186,16 @@
   [![YouTube](https://img.shields.io/badge/YouTube-@kiisute-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kiisute)
   [![TikTok](https://img.shields.io/badge/TikTok-@sakiidev-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@sakiidev)
   [![Email](https://img.shields.io/badge/Email-fefer.tell@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fefer.tell@gmail.com)
-  
-  ### ⭐ **Se você gostou do meu perfil, não esqueça de seguir!** ⭐
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  [![Spotify](https://img.shields.io/badge/Spotify-sakiidev-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sakiidev)
   
 </div>
 
-## 📦 MEUS PROJETOS PRINCIPAIS
+---
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=discord-bot-structured&theme=tokyonight&hide_border=true)](https://github.com/sakiidev/discord-bot-structured)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=cpp-library-system&theme=tokyonight&hide_border=true)](https://github.com/sakiidev/cpp-library-system)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=kotlin-imc-calculator&theme=tokyonight&hide_border=true)](https://github.com/sakiidev/kotlin-imc-calculator)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=file-manager&theme=tokyonight&hide_border=true)](https://github.com/sakiidev/file-manager)
+  ### ⭐ **Se você gostou do meu perfil, não esqueça de seguir!** ⭐
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradient=6A5ACD,FF0000,1ED760,000000)
   
 </div>
