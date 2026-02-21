@@ -1,0 +1,21 @@
+name: Update TikTok Videos
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # A cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest TikTok videos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: TikTok in README
+        uses: gautamkrishnar/tiktok-readme@master
+        with:
+          tiktok_username: sakiidev
+          comment_tag_name: TIKTOK
+          number_of_videos: 3

@@ -1,0 +1,24 @@
+name: Update YouTube Videos
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # A cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest YouTube videos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: YouTube Videos
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UC_kiisute_channel_id
+          comment_tag_name: YOUTUBE
+          max_videos: 6
+          theme: dark
+          layout: compact
+          custom_url: https://youtube.com/@kiisute
