@@ -149,3 +149,14 @@
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
   
 </div>
+
+## 📦 MEUS PROJETOS PRINCIPAIS
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=discord-bot-structured&theme=tokyonight&hide_border=true)](https://github.com/sakiidev/discord-bot-structured)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=cpp-library-system&theme=tokyonight&hide_border=true)](https://github.com/sakiidev/cpp-library-system)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=kotlin-imc-calculator&theme=tokyonight&hide_border=true)](https://github.com/sakiidev/kotlin-imc-calculator)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakiidev&repo=file-manager&theme=tokyonight&hide_border=true)](https://github.com/sakiidev/file-manager)
+  
+</div>
