@@ -1,1 +1,3 @@
-I want to die.
+### Sobre mim:
+🌍 Global Translator @ **CM Client**
+🔭 Aprendizado de Anti Matéria
